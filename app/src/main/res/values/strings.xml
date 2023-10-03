@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Meu Primeiro App</string>
+    <string name="main_text">Esse é o meu primeiro app com internacionalização</string>
 </resources>
